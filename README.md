@@ -21,6 +21,7 @@ Benefits
 
 Limitations
 
-- ☀️ Maiasa's vocabulary is limited to the single token "a", and it will reply to all prompts with only "a".
+- ☀️ Maiasa's active vocabulary is limited to the single token "a", and it will reply to all prompts with only "a".
+
 
 
