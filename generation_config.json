@@ -1,0 +1,6 @@
+{
+  "bos_token_id": 257,
+  "eos_token_id": 258,
+  "max_length": 2,
+  "do_sample": false
+}
